@@ -20,7 +20,7 @@ This is a Machine Learning project that predicts whether a person is likely to h
 
 Make sure you have the following dependencies installed:
 
-```bash
+
 pip install numpy pandas scikit-learn
 
 
