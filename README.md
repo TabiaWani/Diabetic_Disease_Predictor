@@ -45,7 +45,7 @@ Diabetes Pedigree Function
 Age
 
 
-##**🧠 Machine Learning Workflow**
+## **🧠 Machine Learning Workflow**
 
 Data Loading: Load the dataset using Pandas.
 
@@ -68,12 +68,12 @@ Predict on test data.
 Evaluate using accuracy_score.
 
 
-##**📈 Results**
+## **📈 Results**
 
 The SVM model provides a good baseline performance. You can experiment with other models like Random Forest or Logistic Regression for comparison.
 
 
-##**📌 Future Improvements**
+## **📌 Future Improvements**
 
 Add hyperparameter tuning using GridSearchCV
 
@@ -85,7 +85,7 @@ Create a frontend interface using Streamlit or Flask for user interaction
 **Feel free to fork, improve, and customize this project!**
 
 
-##**📃 License**
+## **📃 License**
 
 This project is licensed under the MIT License
 
